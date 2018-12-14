@@ -1,2 +1,1 @@
-# hello-world
-madhu 3year cse
+madhu cse c
